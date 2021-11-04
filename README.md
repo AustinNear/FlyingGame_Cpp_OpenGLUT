@@ -1,3 +1,4 @@
+![alt text](https://github.com/AustinNear/FlyingGame_Cpp_OpenGLUT/blob/main/Screenshot%202021-11-04%20143029.png?raw=true)
 # Installation Instructions
 
 ## Windows Users
